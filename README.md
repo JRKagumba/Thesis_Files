@@ -11,3 +11,6 @@ SPM - OneWay_Anova (Example w Sine Waves).ipynb
 SPM - OneWay_Anova (Group Comparisons).ipynb
 - General template for data Pre-processing, Statistical Analysis and Plotting the SPM1d OneWay Anova
 
+
+SPM - TTests (Post Hocs).ipynb
+- Produces matricies with white boxes (sig pairwise interaction) or black boxes (non-sig pairwise interaction)
